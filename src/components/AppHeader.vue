@@ -7,8 +7,10 @@ export default {
 };
 </script>
 
-<template></template>
+<template>
+  <p>Funziona tutto !</p>
+</template>
 
 <style scoped lang="scss">
-@use '../assets/scss/main.scss' as *;
+@use '../assets/scss/style.scss' as *;
 </style>
