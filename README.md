@@ -32,8 +32,12 @@
 
 ## Description
 
-- line 1
-- line 2
+- Per importare Bootstrap
+  - npm i bootstrap
+  - nel file style.scss -> @import 'bootstrap/scss/bootstrap';
+- per usare router-link
+  - npm install vue-router@4
+  - creare file router.js e indicare le rotte
 - line 3
 - line 4
 - line 5
