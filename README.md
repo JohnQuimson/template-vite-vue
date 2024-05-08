@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-    <img src="./public/img/logo/logo-big.png" alt="my-logo" width="200">
+    <img src="./public/img/my-logo.png" alt="my-logo" width="200">
   <br>
- Portfolio - Vue
+ TITLE
   <br>
 </h1>
 
-<!-- <h4 align="center">summary <a href="http://electron.atom.io" target="_blank">"link"</a>.</h4> -->
+<h4 align="center">summary <a href="http://electron.atom.io" target="_blank">"link"</a>.</h4>
 
 <!-- <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
@@ -32,7 +32,21 @@
 
 ## Description
 
-Sito Portfolio responsive
+- Per importare Bootstrap
+  - npm i bootstrap
+  - nel file style.scss -> @import 'bootstrap/scss/bootstrap';
+- per usare router-link
+  - npm install vue-router@4
+  - creare file router.js e indicare le rotte
+  - in App.vue indicare dove si vuole usare la router link, mettendo nel template -> router-view
+- line 3
+- line 4
+- line 5
+- line 6
+- line 7
+- line 8
+- line 9
+- line 10
 
 ## How To Use
 

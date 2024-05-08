@@ -2,8 +2,3 @@
 @use './partials/variables.scss' as *;
 @use './partials/mixins.scss' as *;
 @use './partials/typography.scss' as *;
-@use './partials/commons.scss' as *;
-@use './partials/media-query.scss' as *;
-
-// Bootstrap import
-@import 'bootstrap/scss/bootstrap';

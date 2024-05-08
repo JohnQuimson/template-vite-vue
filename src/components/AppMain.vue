@@ -1,22 +1,10 @@
 <script>
-import Jumbotron from './Jumbotron.vue';
-import Slider from './Carousel.vue';
-
 export default {
   name: 'Main',
-
-  components: {
-    Jumbotron,
-    Slider,
-  },
+  components: {},
 };
 </script>
 
-<template>
-  <main>
-    <Jumbotron />
-    <Slider />
-  </main>
-</template>
+<template></template>
 
 <style lang="scss" scoped></style>
