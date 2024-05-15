@@ -33,7 +33,7 @@
 ## Description
 
 - Per importare Bootstrap
-  - npm i bootstrap
+  - npm i --save bootstrap @popperjs/core  (anche la libreria @popperjs, per la parte di js)
   - nel file style.scss -> @import 'bootstrap/scss/bootstrap';
 - per usare router-link
   - npm install vue-router@4
