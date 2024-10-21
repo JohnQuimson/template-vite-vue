@@ -1,12 +1,10 @@
 <h1 align="center">
   <br>
-    <img src="./public/img/my-logo.png" alt="my-logo" width="200">
+    <img src="./public/img/logo-gif.gif" alt="my-logo" width="200">
   <br>
- TITLE
+ Titolo
   <br>
 </h1>
-
-<h4 align="center">summary <a href="http://electron.atom.io" target="_blank">"link"</a>.</h4>
 
 <!-- <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
